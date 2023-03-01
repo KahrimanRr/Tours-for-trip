@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tours-for-trip/static/css/main.566bd010.css",
+    "main.js": "/Tours-for-trip/static/js/main.5ec2e9e4.js",
+    "static/js/787.b3d5246b.chunk.js": "/Tours-for-trip/static/js/787.b3d5246b.chunk.js",
+    "index.html": "/Tours-for-trip/index.html",
+    "main.566bd010.css.map": "/Tours-for-trip/static/css/main.566bd010.css.map",
+    "main.5ec2e9e4.js.map": "/Tours-for-trip/static/js/main.5ec2e9e4.js.map",
+    "787.b3d5246b.chunk.js.map": "/Tours-for-trip/static/js/787.b3d5246b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.5ec2e9e4.js"
+  ]
+}
